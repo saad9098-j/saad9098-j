@@ -7,7 +7,7 @@ software development, databases, and distributed systems.
 I enjoy building small but complete systems and quickly adapting to new
 technologies.
 
-📍 Berlin | 📧 smnowar@gmail.com | 🔗 LinkedIn
+📍 Berlin | 📧 smnowar@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/saad-mnowar-a74a37205/)
 
 ---
 
