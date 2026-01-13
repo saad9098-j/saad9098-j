@@ -26,6 +26,13 @@ technologies.
 - Connected external Linux processes to the runtime  
 - Implemented configuration and validation logic  
 
+### Human–AI Collaboration in Radiology (Data Science Project)
+**Tech:** Python, R, Pandas, NumPy, R::tidyverse, Statistical Analysis  
+- Data analysis project based on a public medical imaging dataset  
+- Analyzed the effectiveness of collaboration between AI systems and radiologists  
+- Focus on performance comparison, cooperation effects, and result interpretation  
+- Project repository available on GitLab upon request
+
 ### Distributed Word Count
 **Tech:** C, ZeroMQ  
 - Client–server system for parallel text processing  
