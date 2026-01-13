@@ -63,4 +63,4 @@ Git, Linux, Distributed Systems, Algorithms & Data Structures
 - Backend architectures  
 - Data Science fundamentals  
 
-I am currently looking for a working student position in software development.
+I am currently looking for a working student position in software development or data-related roles.
