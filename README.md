@@ -59,7 +59,8 @@ Git, Linux, Distributed Systems, Algorithms & Data Structures
 ---
 
 ## 🌱 Currently Exploring
-- Docker & containerization  
+- Docker & containerization
+- React
 - Backend architectures  
 - Data Science fundamentals  
 
